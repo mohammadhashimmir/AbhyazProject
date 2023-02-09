@@ -76,7 +76,7 @@ const renderedList=jobList.map((items)=>{
     <div className="extra content">
     <span className="s1">To know more or Apply, Click</span>
     <button className="ui right floated button" onClick={()=>{window.open(`${items.apply}`, '_blank')}}>
-    <img style={{width:"40px"}} src="https://mtabtechnology.com/wp-content/uploads/2020/06/mtabtechnology.png"/>
+    <img alt="logo" style={{width:"40px"}} src="https://mtabtechnology.com/wp-content/uploads/2020/06/mtabtechnology.png"/>
     </button>
     </div>
     </div>   
