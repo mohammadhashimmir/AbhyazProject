@@ -1,0 +1,22 @@
+div.ui.raised.card{
+     height:50vh;
+     width: 22%!important;
+     margin-left:2%!important;
+     border-radius: 20px; 
+     margin-top: 30px;
+}
+div.meta.m2, span.s1{
+    color: #838383!important;
+}
+h2.ui.header.name{
+    color:#F10000!important;
+}
+button.ui.right.floated.button{
+    border-radius: 20px;
+    transition: all 0.3s;
+}
+
+button.ui.right.floated.button:hover{
+    transform: translateY(-0.4em); 
+}
+ 
